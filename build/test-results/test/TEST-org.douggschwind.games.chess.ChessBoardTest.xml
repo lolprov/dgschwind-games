@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.douggschwind.games.chess.ChessBoardTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-12-16T10:09:05" hostname="PC210-16" time="0.043">
+  <properties/>
+  <testcase name="testCanMoveFrom" classname="org.douggschwind.games.chess.ChessBoardTest" time="0.028"/>
+  <testcase name="testQueenSideCastling" classname="org.douggschwind.games.chess.ChessBoardTest" time="0.009"/>
+  <testcase name="testCanMoveToStartOfGame" classname="org.douggschwind.games.chess.ChessBoardTest" time="0.004"/>
+  <testcase name="testEnPassantToLeft" classname="org.douggschwind.games.chess.ChessBoardTest" time="0.001"/>
+  <testcase name="testStartOfGameSetup" classname="org.douggschwind.games.chess.ChessBoardTest" time="0.0"/>
+  <testcase name="testEnPassantToRight" classname="org.douggschwind.games.chess.ChessBoardTest" time="0.001"/>
+  <testcase name="testKingSideCastling" classname="org.douggschwind.games.chess.ChessBoardTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
